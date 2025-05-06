@@ -54,8 +54,8 @@
             <!-- Producto 2 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
-                <span class="discount">-13%</span>
+                <img src="{{ asset('image/cable.png') }}" alt="Carro">
+                <span class="discount">-10%</span>
                     <div class="button-group">
                         <span>
                         <i class="fa-solid fa-eye"></i>
@@ -73,7 +73,7 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>Cable USB ADATA CACC-200PN-BK / USB Tipo C a USB Tipo C (M-M) / 2m / Negro / CACC-200PN-BK</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
@@ -84,8 +84,8 @@
             <!-- Producto 3 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
-                <span class="discount">-13%</span>
+                <img src="{{ asset('image/cable.png') }}" alt="Carro">
+                <span class="discount">-10%</span>
                     <div class="button-group">
                         <span>
                         <i class="fa-solid fa-eye"></i>
@@ -103,7 +103,7 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>Cable USB ADATA CACC-200PN-BK / USB Tipo C a USB Tipo C (M-M) / 2m / Negro / CACC-200PN-BK</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
@@ -114,8 +114,8 @@
             <!-- Producto 4 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
-                <span class="discount">-13%</span>
+                <img src="{{ asset('image/cable.png') }}" alt="Carro">
+                <span class="discount">-10%</span>
                     <div class="button-group">
                         <span>
                         <i class="fa-solid fa-eye"></i>
@@ -133,7 +133,7 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>Cable USB ADATA CACC-200PN-BK / USB Tipo C a USB Tipo C (M-M) / 2m / Negro / CACC-200PN-BK</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
@@ -144,8 +144,8 @@
             <!-- Producto 5 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
-                <span class="discount">-13%</span>
+                <img src="{{ asset('image/cable.png') }}" alt="Carro">
+                <span class="discount">-10%</span>
                     <div class="button-group">
                         <span>
                         <i class="fa-solid fa-eye"></i>
@@ -163,7 +163,7 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>Cable USB ADATA CACC-200PN-BK / USB Tipo C a USB Tipo C (M-M) / 2m / Negro / CACC-200PN-BK</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
@@ -174,8 +174,8 @@
             <!-- Producto 6 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
-                <span class="discount">-13%</span>
+                <img src="{{ asset('image/cable.png') }}" alt="Carro">
+                <span class="discount">-10%</span>
                     <div class="button-group">
                         <span>
                         <i class="fa-solid fa-eye"></i>
@@ -193,7 +193,7 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>Cable USB ADATA CACC-200PN-BK / USB Tipo C a USB Tipo C (M-M) / 2m / Negro / CACC-200PN-BK</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>

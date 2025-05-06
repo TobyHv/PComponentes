@@ -54,7 +54,7 @@
             <!-- Producto 2 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
+                <img src="{{ asset('image/headset3.png') }}" alt="Carro">
                 <span class="discount">-13%</span>
                     <div class="button-group">
                         <span>
@@ -73,18 +73,18 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>Audifonos Gamer Inalambricos Aeon 3 HS1100 Over Ear + Bluetooth V5.4 + 2.4 MHz + Aux + Bocinas 50 mm + Mic Desmontable / Sonido 7.1 + Compatible con PC + Dispositivos móviles + Consolas / Recargables + RGB / Legend Negros / BR-938501</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$1,349.00</p>
                 </div>
             </div>
 
             <!-- Producto 3 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
+                <img src="{{ asset('image/headset3.png') }}" alt="Carro">
                 <span class="discount">-13%</span>
                     <div class="button-group">
                         <span>
@@ -103,18 +103,18 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>Audifonos Gamer Inalambricos Aeon 3 HS1100 Over Ear + Bluetooth V5.4 + 2.4 MHz + Aux + Bocinas 50 mm + Mic Desmontable / Sonido 7.1 + Compatible con PC + Dispositivos móviles + Consolas / Recargables + RGB / Legend Negros / BR-938501</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$1,349.00</p>
                 </div>
             </div>
 
             <!-- Producto 4 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
+                <img src="{{ asset('image/headset3.png') }}" alt="Carro">
                 <span class="discount">-13%</span>
                     <div class="button-group">
                         <span>
@@ -133,18 +133,18 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>Audifonos Gamer Inalambricos Aeon 3 HS1100 Over Ear + Bluetooth V5.4 + 2.4 MHz + Aux + Bocinas 50 mm + Mic Desmontable / Sonido 7.1 + Compatible con PC + Dispositivos móviles + Consolas / Recargables + RGB / Legend Negros / BR-938501</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$1,349.00</p>
                 </div>
             </div>
 
             <!-- Producto 5 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
+                <img src="{{ asset('image/headset3.png') }}" alt="Carro">
                 <span class="discount">-13%</span>
                     <div class="button-group">
                         <span>
@@ -163,18 +163,18 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>Audifonos Gamer Inalambricos Aeon 3 HS1100 Over Ear + Bluetooth V5.4 + 2.4 MHz + Aux + Bocinas 50 mm + Mic Desmontable / Sonido 7.1 + Compatible con PC + Dispositivos móviles + Consolas / Recargables + RGB / Legend Negros / BR-938501</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$1,349.00</p>
                 </div>
             </div>
 
             <!-- Producto 6 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
+                <img src="{{ asset('image/headset3.png') }}" alt="Carro">
                 <span class="discount">-13%</span>
                     <div class="button-group">
                         <span>
@@ -193,11 +193,11 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>Audifonos Gamer Inalambricos Aeon 3 HS1100 Over Ear + Bluetooth V5.4 + 2.4 MHz + Aux + Bocinas 50 mm + Mic Desmontable / Sonido 7.1 + Compatible con PC + Dispositivos móviles + Consolas / Recargables + RGB / Legend Negros / BR-938501</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$1,349.00</p>
                 </div>
             </div>
         </div>

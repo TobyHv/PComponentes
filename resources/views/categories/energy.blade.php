@@ -54,7 +54,7 @@
             <!-- Producto 2 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
+                <img src="{{ asset('image/ups.png') }}" alt="Carro">
                 <span class="discount">-13%</span>
                     <div class="button-group">
                         <span>
@@ -73,18 +73,18 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>No Break CyberPower OM1500ATLCD / 900W / 1500VA / Entrada 82-148V / 8 Contactos / OM1500ATLCDA</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$3,899.00 <span>$$3,000.00</span></p>
                 </div>
             </div>
 
             <!-- Producto 3 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
+                <img src="{{ asset('image/ups.png') }}" alt="Carro">
                 <span class="discount">-13%</span>
                     <div class="button-group">
                         <span>
@@ -103,18 +103,18 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>No Break CyberPower OM1500ATLCD / 900W / 1500VA / Entrada 82-148V / 8 Contactos / OM1500ATLCDA</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$3,899.00 <span>$$3,000.00</span></p>
                 </div>
             </div>
 
             <!-- Producto 4 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
+                <img src="{{ asset('image/ups.png') }}" alt="Carro">
                 <span class="discount">-13%</span>
                     <div class="button-group">
                         <span>
@@ -133,18 +133,18 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>No Break CyberPower OM1500ATLCD / 900W / 1500VA / Entrada 82-148V / 8 Contactos / OM1500ATLCDA</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$3,899.00 <span>$$3,000.00</span></p>
                 </div>
             </div>
 
             <!-- Producto 5 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
+                <img src="{{ asset('image/ups.png') }}" alt="Carro">
                 <span class="discount">-13%</span>
                     <div class="button-group">
                         <span>
@@ -163,18 +163,18 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>No Break CyberPower OM1500ATLCD / 900W / 1500VA / Entrada 82-148V / 8 Contactos / OM1500ATLCDA</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$3,899.00 <span>$$3,000.00</span></p>
                 </div>
             </div>
 
             <!-- Producto 6 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
+                <img src="{{ asset('image/ups.png') }}" alt="Carro">
                 <span class="discount">-13%</span>
                     <div class="button-group">
                         <span>
@@ -193,11 +193,11 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>No Break CyberPower OM1500ATLCD / 900W / 1500VA / Entrada 82-148V / 8 Contactos / OM1500ATLCDA</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$3,899.00 <span>$$3,000.00</span></p>
                 </div>
             </div>
         </div>

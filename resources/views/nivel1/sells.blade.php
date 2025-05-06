@@ -31,7 +31,7 @@
             <!-- Producto 1 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/headset.png') }}" alt="Carro">
+                <img src="{{ asset('image/headset2.png') }}" alt="Carro">
                 <span class="discount">-13%</span>
                     <div class="button-group">
                         <span>
@@ -50,18 +50,18 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un Aston Martin</h3>
+                    <h3>Headsets con cancelacion de ruido</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$1,230 <span>$1,000</span></p>
                 </div>
             </div>
             
             <!-- Producto 2 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/headset.png') }}" alt="Carro">
+                <img src="{{ asset('image/headset2.png') }}" alt="Carro">
                 <span class="discount">-13%</span>
                     <div class="button-group">
                         <span>
@@ -80,18 +80,18 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un Ferrari</h3>
+                    <h3>Headsets con cancelacion de ruido</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$1,230 <span>$1,000</span></p>
                 </div>
             </div>
 
             <!-- Producto 3 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/headset.png') }}" alt="Carro">
+                <img src="{{ asset('image/headset2.png') }}" alt="Carro">
                 <span class="discount">-13%</span>
                     <div class="button-group">
                         <span>
@@ -110,18 +110,18 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>Headsets con cancelacion de ruido</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$1,230 <span>$1,000</span></p>
                 </div>
             </div>
 
             <!-- Producto 4 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/headset.png') }}" alt="Carro">
+                <img src="{{ asset('image/headset2.png') }}" alt="Carro">
                 <span class="discount">-13%</span>
                     <div class="button-group">
                         <span>
@@ -140,18 +140,18 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>Headsets con cancelacion de ruido</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$1,230 <span>$1,000</span></p>
                 </div>
             </div>
 
             <!-- Producto 5 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
+                <img src="{{ asset('image/headset2.png') }}" alt="Carro">
                 <span class="discount">-13%</span>
                     <div class="button-group">
                         <span>
@@ -170,18 +170,18 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>Headsets con cancelacion de ruido</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$1,230 <span>$1,000</span></p>
                 </div>
             </div>
 
             <!-- Producto 6 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
+                <img src="{{ asset('image/headset2.png') }}" alt="Carro">
                 <span class="discount">-13%</span>
                     <div class="button-group">
                         <span>
@@ -200,11 +200,11 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>Headsets con cancelacion de ruido</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$1,230 <span>$1,000</span></p>
                 </div>
             </div>
         </div>

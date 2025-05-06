@@ -6,7 +6,7 @@
 <header class="navegacion">
     <nav class="navbar">
         <a href="/inicio" class="icon">
-        <img src="{{ asset('image/logo.png') }}" alt="Ícono" />
+        <img src="{{ asset('image/logo.png') }}" class = "bounce" alt="Ícono" />
         </a>
         <div class="content-nav">
             <ul class="nav-links">

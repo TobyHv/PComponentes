@@ -54,8 +54,8 @@
             <!-- Producto 2 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
-                <span class="discount">-13%</span>
+                <img src="{{ asset('image/computer.png') }}" alt="Carro">
+                <span class="discount">-9%</span>
                     <div class="button-group">
                         <span>
                         <i class="fa-solid fa-eye"></i>
@@ -73,19 +73,19 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>Computadora PRIDE GAMING CALIPSO / NVIDIA GeForce RTX 5080 / INTEL CORE ULTRA 7 265K / 32GB RAM / 2TB SSD M.2 NVMe / ENF. LIQ. 360MM RGB / 1000W 80+ GOLD / INCLUYE WIFI</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$58,999.00 <span>$50,000.00</span></p>
                 </div>
             </div>
 
             <!-- Producto 3 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
-                <span class="discount">-13%</span>
+                <img src="{{ asset('image/computer.png') }}" alt="Carro">
+                <span class="discount">-9%</span>
                     <div class="button-group">
                         <span>
                         <i class="fa-solid fa-eye"></i>
@@ -103,19 +103,19 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>Computadora PRIDE GAMING CALIPSO / NVIDIA GeForce RTX 5080 / INTEL CORE ULTRA 7 265K / 32GB RAM / 2TB SSD M.2 NVMe / ENF. LIQ. 360MM RGB / 1000W 80+ GOLD / INCLUYE WIFI</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$58,999.00 <span>$50,000.00</span></p>
                 </div>
             </div>
 
             <!-- Producto 4 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
-                <span class="discount">-13%</span>
+                <img src="{{ asset('image/computer.png') }}" alt="Carro">
+                <span class="discount">-9%</span>
                     <div class="button-group">
                         <span>
                         <i class="fa-solid fa-eye"></i>
@@ -133,19 +133,19 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>Computadora PRIDE GAMING CALIPSO / NVIDIA GeForce RTX 5080 / INTEL CORE ULTRA 7 265K / 32GB RAM / 2TB SSD M.2 NVMe / ENF. LIQ. 360MM RGB / 1000W 80+ GOLD / INCLUYE WIFI</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$58,999.00 <span>$50,000.00</span></p>
                 </div>
             </div>
 
             <!-- Producto 5 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
-                <span class="discount">-13%</span>
+                <img src="{{ asset('image/computer.png') }}" alt="Carro">
+                <span class="discount">-9%</span>
                     <div class="button-group">
                         <span>
                         <i class="fa-solid fa-eye"></i>
@@ -163,19 +163,19 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>Computadora PRIDE GAMING CALIPSO / NVIDIA GeForce RTX 5080 / INTEL CORE ULTRA 7 265K / 32GB RAM / 2TB SSD M.2 NVMe / ENF. LIQ. 360MM RGB / 1000W 80+ GOLD / INCLUYE WIFI</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$58,999.00 <span>$50,000.00</span></p>
                 </div>
             </div>
 
             <!-- Producto 6 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
-                <span class="discount">-13%</span>
+                <img src="{{ asset('image/computer.png') }}" alt="Carro">
+                <span class="discount">-9%</span>
                     <div class="button-group">
                         <span>
                         <i class="fa-solid fa-eye"></i>
@@ -193,11 +193,11 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>Computadora PRIDE GAMING CALIPSO / NVIDIA GeForce RTX 5080 / INTEL CORE ULTRA 7 265K / 32GB RAM / 2TB SSD M.2 NVMe / ENF. LIQ. 360MM RGB / 1000W 80+ GOLD / INCLUYE WIFI</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$58,999.00 <span>$50,000.00</span></p>
                 </div>
             </div>
         </div>

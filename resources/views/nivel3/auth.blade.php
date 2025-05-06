@@ -13,8 +13,14 @@
 @include('layout.header')
 <main class="auth-content">
     <div class="card-auth">
+
+    <div class="toggle-buttons">
+      <button onclick="toggleAuth('login')">Iniciar Sesión</button>
+      <button onclick="toggleAuth('register')">Registrarse</button>
+    </div>
+
         <!-- Sección de Iniciar Sesión -->
-        <div class="box">
+        <div class="box active" id="login-box">
             <h2>Iniciar Sesión</h2>
             <p>Bienvenido, entra a tu cuenta.</p>
             <form>
@@ -26,7 +32,7 @@
         </div>
 
         <!-- Sección de Registro -->
-        <div class="box">
+        <div class="box" id="register-box">
             <h2>Crear una Nueva Cuenta</h2>
             <p>Crea tu cuenta con tu usuario, correo y contraseña.</p>
             <form>
@@ -42,4 +48,20 @@
 @include('layout.related-products')
 </body>
 @include('layout.footer')
+<script>
+  function toggleAuth(view) {
+    const loginBox = document.getElementById("login-box");
+    const registerBox = document.getElementById("register-box");
+
+    loginBox.classList.remove("active");
+    registerBox.classList.remove("active");
+
+    if (view === "login") {
+      loginBox.classList.add("active");
+    } else {
+      registerBox.classList.add("active");
+    }
+  }
+</script>
+
 </html>

@@ -8,8 +8,6 @@
           <ul class="footer-links">
             <li><a href="/info" class="footer-link">Quienes somos</a></li>
             <li><a href="/contacto" class="footer-link">Contacto</a></li>
-            <li><a href="#" class="footer-link">Blog</a></li>
-            <li><a href="#" class="footer-link">Affiliate Program</a></li>
             <li><a href="/questions" class="footer-link">Preguntas frecuentes</a></li>
           </ul>
         </div>

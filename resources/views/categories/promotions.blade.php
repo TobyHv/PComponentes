@@ -54,7 +54,7 @@
             <!-- Producto 2 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
+                <img src="{{ asset('image/monitor2.png') }}" alt="Carro">
                 <span class="discount">-13%</span>
                     <div class="button-group">
                         <span>
@@ -73,18 +73,18 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>Monitor Gamer LG 34GP63A / UltraWide / 34" / WQHD / VA / 160Hz / 1ms / AMD FreeSync Premium / HDMI / Display Port / Curvo 1800R / 34GP63ADMI / 912-V530-024</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$7,999.00 <span>$8,699.00</span></p>
                 </div>
             </div>
 
             <!-- Producto 3 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
+                <img src="{{ asset('image/monitor2.png') }}" alt="Carro">
                 <span class="discount">-13%</span>
                     <div class="button-group">
                         <span>
@@ -103,18 +103,18 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>Monitor Gamer LG 34GP63A / UltraWide / 34" / WQHD / VA / 160Hz / 1ms / AMD FreeSync Premium / HDMI / Display Port / Curvo 1800R / 34GP63ADMI / 912-V530-024</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$7,999.00 <span>$8,699.00</span></p>
                 </div>
             </div>
 
             <!-- Producto 4 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
+                <img src="{{ asset('image/monitor2.png') }}" alt="Carro">
                 <span class="discount">-13%</span>
                     <div class="button-group">
                         <span>
@@ -133,18 +133,18 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>Monitor Gamer LG 34GP63A / UltraWide / 34" / WQHD / VA / 160Hz / 1ms / AMD FreeSync Premium / HDMI / Display Port / Curvo 1800R / 34GP63ADMI / 912-V530-024</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$7,999.00 <span>$8,699.00</span></p>
                 </div>
             </div>
 
             <!-- Producto 5 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
+                <img src="{{ asset('image/monitor2.png') }}" alt="Carro">
                 <span class="discount">-13%</span>
                     <div class="button-group">
                         <span>
@@ -163,18 +163,18 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>Monitor Gamer LG 34GP63A / UltraWide / 34" / WQHD / VA / 160Hz / 1ms / AMD FreeSync Premium / HDMI / Display Port / Curvo 1800R / 34GP63ADMI / 912-V530-024</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$7,999.00 <span>$8,699.00</span></p>
                 </div>
             </div>
 
             <!-- Producto 6 -->
             <div class="card-product">
                 <div class="container-img">
-                <img src="{{ asset('image/alpine.jpg') }}" alt="Carro">
+                <img src="{{ asset('image/monitor2.png') }}" alt="Carro">
                 <span class="discount">-13%</span>
                     <div class="button-group">
                         <span>
@@ -193,11 +193,11 @@
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-regular fa-star"></i>
                     </div>
-                    <h3>Un alpine</h3>
+                    <h3>Monitor Gamer LG 34GP63A / UltraWide / 34" / WQHD / VA / 160Hz / 1ms / AMD FreeSync Premium / HDMI / Display Port / Curvo 1800R / 34GP63ADMI / 912-V530-024</h3>
                     <span class="add-cart">
                     <i class="fa-solid fa-cart-plus"></i>
                     </span>
-                    <p class="price">$130 <span>$210</span></p>
+                    <p class="price">$7,999.00 <span>$8,699.00</span></p>
                 </div>
             </div>
         </div>

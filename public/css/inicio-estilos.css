@@ -120,6 +120,24 @@
   max-width: 3rem;
 }
 
+.bounce:hover{
+  animation: bounce 1s infinite;
+}
+
+
+@keyframes bounce {
+  0%,
+  100% {
+    transform: translateY(-15%);
+    animation-timing-function: cubic-bezier(0, 0, 1, 2);
+  }
+  50% {
+    transform: translateY(0);
+    animation-timing-function: cubic-bezier(0, 0, 0.2, 2);
+  }
+}
+
+
 .search-bar input {
   flex: 1;
   border: none;
@@ -441,6 +459,13 @@ body{
 /*        */
 /* SESION */
 /*        */
+
+.box {
+  display: none;
+}
+.box.active {
+  display: block;
+}
 
 .auth-content {
   display: flex;
@@ -998,6 +1023,12 @@ main.info-product, section.opinions {
 .filter ul a{
   text-decoration: none;
   color: #000;
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding: 1rem;
+  text-decoration: none;
+  color: inherit;
 }
 
 .filter hr{
@@ -1020,7 +1051,6 @@ main.info-product, section.opinions {
   border: 2px solid transparent;
   border-radius: 0.7rem;
   transition: all 0.3s ease;
-
 }
 
 .filter ul li:hover{
@@ -2782,7 +2812,7 @@ text-decoration: none;
 }
 
 .more-desc p{
-  color: #90e9ec94;
+  color: #ffff;
 }
 
 .components-conf{
