@@ -49,4 +49,5 @@ Route::get('/', function () {
 });
 
 
+Route::view('/add-opinion', 'base.add-opinion');
 
